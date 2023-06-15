@@ -1,0 +1,32 @@
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\bin\Debug\Practica1_2_Poleev.exe.config
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\bin\Debug\Practica1_2_Poleev.exe
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\bin\Debug\Practica1_2_Poleev.pdb
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.Form1.resources
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.Properties.Resources.resources
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.csproj.GenerateResource.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.exe
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.pdb
+C:\Users\андрей\Desktop\Практика\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\bin\Debug\Practica1_2_Poleev.exe.config
+C:\Users\андрей\Desktop\Практика\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\bin\Debug\Practica1_2_Poleev.exe
+C:\Users\андрей\Desktop\Практика\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\bin\Debug\Practica1_2_Poleev.pdb
+C:\Users\андрей\Desktop\Практика\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.csproj.AssemblyReference.cache
+C:\Users\андрей\Desktop\Практика\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.csproj.SuggestedBindingRedirects.cache
+C:\Users\андрей\Desktop\Практика\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.Form1.resources
+C:\Users\андрей\Desktop\Практика\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.Properties.Resources.resources
+C:\Users\андрей\Desktop\Практика\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.csproj.GenerateResource.cache
+C:\Users\андрей\Desktop\Практика\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.csproj.CoreCompileInputs.cache
+C:\Users\андрей\Desktop\Практика\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.exe
+C:\Users\андрей\Desktop\Практика\.Практика\Practica1_Poleev\2\Practica1_2_Poleev\obj\Debug\Practica1_2_Poleev.pdb
+E:\Андрей\Практика\Практическая 1\задание 2, 3\bin\Debug\Practica1_2_Poleev.exe.config
+E:\Андрей\Практика\Практическая 1\задание 2, 3\bin\Debug\Practica1_2_Poleev.exe
+E:\Андрей\Практика\Практическая 1\задание 2, 3\bin\Debug\Practica1_2_Poleev.pdb
+E:\Андрей\Практика\Практическая 1\задание 2, 3\obj\Debug\Practica1_2_Poleev.csproj.AssemblyReference.cache
+E:\Андрей\Практика\Практическая 1\задание 2, 3\obj\Debug\Practica1_2_Poleev.csproj.SuggestedBindingRedirects.cache
+E:\Андрей\Практика\Практическая 1\задание 2, 3\obj\Debug\Practica1_2_Poleev.Form1.resources
+E:\Андрей\Практика\Практическая 1\задание 2, 3\obj\Debug\Practica1_2_Poleev.Properties.Resources.resources
+E:\Андрей\Практика\Практическая 1\задание 2, 3\obj\Debug\Practica1_2_Poleev.csproj.GenerateResource.cache
+E:\Андрей\Практика\Практическая 1\задание 2, 3\obj\Debug\Practica1_2_Poleev.csproj.CoreCompileInputs.cache
+E:\Андрей\Практика\Практическая 1\задание 2, 3\obj\Debug\Practica1_2_Poleev.exe
+E:\Андрей\Практика\Практическая 1\задание 2, 3\obj\Debug\Practica1_2_Poleev.pdb

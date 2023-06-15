@@ -1,0 +1,15 @@
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\bin\Debug\Practica1_Poleev.exe.config
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\bin\Debug\Practica1_Poleev.exe
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\bin\Debug\Practica1_Poleev.pdb
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\obj\Debug\Practica1_Poleev.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\obj\Debug\Practica1_Poleev.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\obj\Debug\Practica1_Poleev.exe
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\.Практика\Practica1_Poleev\obj\Debug\Practica1_Poleev.pdb
+E:\Андрей\Практика\Практическая 1\задание 1\bin\Debug\Practica1_Poleev.exe.config
+E:\Андрей\Практика\Практическая 1\задание 1\bin\Debug\Practica1_Poleev.exe
+E:\Андрей\Практика\Практическая 1\задание 1\bin\Debug\Practica1_Poleev.pdb
+E:\Андрей\Практика\Практическая 1\задание 1\obj\Debug\Practica1_Poleev.csproj.AssemblyReference.cache
+E:\Андрей\Практика\Практическая 1\задание 1\obj\Debug\Practica1_Poleev.csproj.SuggestedBindingRedirects.cache
+E:\Андрей\Практика\Практическая 1\задание 1\obj\Debug\Practica1_Poleev.csproj.CoreCompileInputs.cache
+E:\Андрей\Практика\Практическая 1\задание 1\obj\Debug\Practica1_Poleev.exe
+E:\Андрей\Практика\Практическая 1\задание 1\obj\Debug\Practica1_Poleev.pdb
